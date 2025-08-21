@@ -21,6 +21,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 2 – *Building Momentum!* 🚀  
+🔹 Problems Solved:  
+- 🔍 Contains Duplicate – [LeetCode 217](https://leetcode.com/problems/contains-duplicate/description/)  
+- ❓ Missing Number – [LeetCode 268](https://leetcode.com/problems/missing-number/description/)  
+- 🔑 First Unique Character in a String – [LeetCode 387](https://leetcode.com/problems/first-unique-character-in-a-string/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
