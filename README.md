@@ -31,6 +31,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 3 – *Leveling Up!* 🔥  
+🔹 Problems Solved:  
+- 🔄 Palindrome Number – [LeetCode 9](https://leetcode.com/problems/palindrome-number/)  
+- 🔢 Roman to Integer – [LeetCode 13](https://leetcode.com/problems/roman-to-integer/)  
+- 📝 Length of Last Word – [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
