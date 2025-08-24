@@ -41,6 +41,26 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 4 – *Array & Bit Manipulation!* ⚡  
+🔹 Problems Solved:  
+- 🔹 Single Number – [LeetCode 136](https://leetcode.com/problems/single-number/)  
+- 🔹 Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)  
+- 🔹 Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 5 – *Logic & Math Challenges!* 🧠  
+🔹 Problems Solved:  
+- 🔄 Palindrome Number – [LeetCode 9](https://leetcode.com/problems/palindrome-number/)  
+- 😊 Happy Number – [LeetCode 202](https://leetcode.com/problems/happy-number/description/)  
+- 🔢 Number of 1 Bits – [LeetCode 191](https://leetcode.com/problems/number-of-1-bits/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
@@ -58,4 +78,4 @@ This challenge is all about:
 ---
 
 📌 I’ll be updating this README **daily** with solved problems.  
-🚀 Let’s code, grow, and stay consistent together!
+🚀 Let’s code, grow, and stay consistent together!  
