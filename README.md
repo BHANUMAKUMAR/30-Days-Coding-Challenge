@@ -61,6 +61,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 6 – *Strings & Arrays Mastery!* 🔥  
+🔹 Problems Solved:  
+- 🔤 Longest Common Prefix – [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)  
+- 🔗 Longest Consecutive Sequence – [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/description/)  
+- 🎨 Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
