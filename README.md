@@ -71,6 +71,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 7 – *String Challenges & Greedy!* 💡  
+🔹 Problems Solved:  
+- 🔀 Zigzag Conversion – [LeetCode 6](https://leetcode.com/problems/zigzag-conversion/)  
+- ✂️ String Compression – [LeetCode 443](https://leetcode.com/problems/string-compression/description/)  
+- 🔢 Largest Number – [LeetCode 179](https://leetcode.com/problems/largest-number/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
