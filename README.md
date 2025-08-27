@@ -81,6 +81,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 8 – *Stacks & Linked Lists!* 🔗  
+🔹 Problems Solved:  
+- ➕ Add Two Numbers – [LeetCode 2](https://leetcode.com/problems/add-two-numbers/)  
+- 🔁 Reverse Linked List – [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/)  
+- 🔍 Next Greater Element I – [LeetCode 496](https://leetcode.com/problems/next-greater-element-i/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
