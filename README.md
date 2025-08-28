@@ -91,6 +91,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 9 – *Queue & Design Problems!* ⚙️  
+🔹 Problems Solved:  
+- 🏗️ Implement Queue using Stacks – [LeetCode 232](https://leetcode.com/problems/implement-queue-using-stacks/description/)  
+- 📞 Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/)  
+- 🔄 Design Circular Queue – [LeetCode 622](https://leetcode.com/problems/design-circular-queue/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
