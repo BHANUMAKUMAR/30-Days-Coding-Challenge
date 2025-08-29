@@ -101,6 +101,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 10 – *DNA & String Validation!* 🧬  
+🔹 Problems Solved:  
+- 🔁 Repeated DNA Sequences – [LeetCode 187](https://leetcode.com/problems/repeated-dna-sequences/description/)  
+- 🅾️ Move Zeroes – [LeetCode 283](https://leetcode.com/problems/move-zeroes/)  
+- ✅ Valid Palindrome II – [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
@@ -119,3 +129,4 @@ This challenge is all about:
 
 📌 I’ll be updating this README **daily** with solved problems.  
 🚀 Let’s code, grow, and stay consistent together!  
+
