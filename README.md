@@ -111,6 +111,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 11 – *Prefix Sum & Array Analysis!* 📊  
+🔹 Problems Solved:  
+- ➖ Range Sum Query - Immutable – [LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/)  
+- ☯️ Pivot Index – [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)  
+- ⏩ Running Sum of 1D Array – [LeetCode 1480](https://leetcode.com/problems/running-sum-of-1d-array/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
@@ -129,4 +139,3 @@ This challenge is all about:
 
 📌 I’ll be updating this README **daily** with solved problems.  
 🚀 Let’s code, grow, and stay consistent together!  
-
