@@ -121,6 +121,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 12 – *Math & Binary Search!*  〽️  
+🔹 Problems Solved:  
+-  Perfect Square Validation – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
+-  First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/description/)  
+-  Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
