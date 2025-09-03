@@ -151,6 +151,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 15 – *Sorting & Stack Simulation!*  🆙  
+🔹 Problems Solved:  
+-  Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/)  
+-  Remove All Adjacent Duplicates in String II – [LeetCode 1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/1758378132/)  
+-  Score of Parentheses – [LeetCode 856](https://leetcode.com/problems/score-of-parentheses/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
