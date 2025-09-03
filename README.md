@@ -141,6 +141,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 14 – *Binary Search & Splitting Arrays!*  🆕  
+🔹 Problems Solved:  
+-  Arranging Coins – [LeetCode 441](https://leetcode.com/problems/arranging-coins/submissions/1758363344/)  
+-  Capacity to Ship Packages Within D Days – [LeetCode 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1758367964/)  
+-  Split Array Largest Sum – [LeetCode 410](https://leetcode.com/problems/split-array-largest-sum/submissions/1758371158/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
