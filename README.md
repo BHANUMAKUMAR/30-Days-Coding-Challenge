@@ -131,6 +131,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 13 – *Array Transform & Custom Filters!*  ⚙️  
+🔹 Problems Solved:  
+-  How Many Numbers Are Smaller Than the Current Number – [LeetCode 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
+-  Array Partition – [LeetCode 561](https://leetcode.com/problems/array-partition/description/)  
+-  Count Items Matching a Rule – [LeetCode 1773](https://leetcode.com/problems/count-items-matching-a-rule/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
