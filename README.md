@@ -161,6 +161,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 16 – *Greedy, and Reconstruction Challenges!*  ⬆️  
+🔹 Problems Solved:  
+-  Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/description/)  
+-  Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
+-  Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
