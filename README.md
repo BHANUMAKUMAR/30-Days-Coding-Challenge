@@ -161,11 +161,21 @@ This challenge is all about:
 
 ---
 
-### ✅ Day 16 – *Greedy, and Reconstruction Challenges!*  ⬆️  
+### ✅ Day 16 – *Greedy & Reconstruction Challenges!*  ⬆️  
 🔹 Problems Solved:  
 -  Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/description/)  
 -  Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
 -  Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 17 – *Linked List Manipulations!*  🔄  
+🔹 Problems Solved:  
+-  Rotate List – [LeetCode 61](https://leetcode.com/problems/rotate-list/description/)  
+-  Swap Nodes in Pairs – [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)  
+-  Copy List with Random Pointer – [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)  
 
 ✔️ Status: **Completed** 🎉  
 
