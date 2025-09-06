@@ -121,7 +121,7 @@ This challenge is all about:
 
 ---
 
-### ✅ Day 12 – *Math & Binary Search!*  〽️  
+### ✅ Day 12 – *Math & Binary Search!* 〽️  
 🔹 Problems Solved:  
 -  Perfect Square Validation – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
 -  First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/description/)  
@@ -176,6 +176,16 @@ This challenge is all about:
 -  Rotate List – [LeetCode 61](https://leetcode.com/problems/rotate-list/description/)  
 -  Swap Nodes in Pairs – [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)  
 -  Copy List with Random Pointer – [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 18 – *Heaps & Data Streams!*  ⏳  
+🔹 Problems Solved:  
+-  Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/1761826281/)  
+-  K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/description/)  
+-  Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
