@@ -164,7 +164,7 @@ This challenge is all about:
 ### ✅ Day 16 – *Greedy & Reconstruction Challenges!*  ⬆️  
 🔹 Problems Solved:  
 -  Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/description/)  
--  Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
+-  Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/...)  
 -  Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
 
 ✔️ Status: **Completed** 🎉  
@@ -183,9 +183,19 @@ This challenge is all about:
 
 ### ✅ Day 18 – *Heaps & Data Streams!*  ⏳  
 🔹 Problems Solved:  
--  Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/1761826281/)  
+-  Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/...)  
 -  K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/description/)  
 -  Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 19 – *Optimizing Arrays!*  〰️  
+🔹 Problems Solved:  
+-  Remove Duplicates from Sorted Array – [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+-  Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/description/)  
+-  Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
 
 ✔️ Status: **Completed** 🎉  
 
