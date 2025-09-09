@@ -211,6 +211,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 21 – *Backtracking with Duplicates!*  〰️  
+🔹 Problems Solved:  
+-  Subsets II – [LeetCode 90](https://leetcode.com/problems/subsets-ii/)  
+-  Combination Sum II – [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)  
+-  Permutations II – [LeetCode 47](https://leetcode.com/problems/permutations-ii/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1–3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
