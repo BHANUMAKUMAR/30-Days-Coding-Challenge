@@ -101,121 +101,131 @@ This challenge is all about:
 
 ---
 
-### ✅ Day 10 – *DNA & String Validation!* 🧬  
+### ✅ Day 10 – *String & Array Logic!* ✨  
 🔹 Problems Solved:  
-- 🔁 Repeated DNA Sequences – [LeetCode 187](https://leetcode.com/problems/repeated-dna-sequences/description/)  
+- 🧬 Repeated DNA Sequences – [LeetCode 187](https://leetcode.com/problems/repeated-dna-sequences/description/)  
 - 🅾️ Move Zeroes – [LeetCode 283](https://leetcode.com/problems/move-zeroes/)  
-- ✅ Valid Palindrome II – [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/)  
+- 🔄 Valid Palindrome II – [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 11 – *Prefix Sum & Array Analysis!* 📊  
+### ✅ Day 11 – *Prefix Sums & Range Queries!* 📊  
 🔹 Problems Solved:  
-- ➖ Range Sum Query - Immutable – [LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/)  
-- ☯️ Pivot Index – [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)  
-- ⏩ Running Sum of 1D Array – [LeetCode 1480](https://leetcode.com/problems/running-sum-of-1d-array/)  
+- 📏 Range Sum Query - Immutable – [LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/)  
+- ⚖️ Find Pivot Index – [LeetCode 724](https://leetcode.com/problems/find-pivot-index/)  
+- ➕ Running Sum of 1D Array – [LeetCode 1480](https://leetcode.com/problems/running-sum-of-1d-array/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 12 – *Math & Binary Search!* 〽️  
+### ✅ Day 12 – *Binary Search Practice!* 🔎  
 🔹 Problems Solved:  
--  Perfect Square Validation – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
--  First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/description/)  
--  Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  
+- 🔢 Valid Perfect Square – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
+- 🛠️ First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/)  
+- ⛰️ Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 13 – *Array Transform & Custom Filters!*  ⚙️  
+### ✅ Day 13 – *Array & Counting Problems!* 🔢  
 🔹 Problems Solved:  
--  How Many Numbers Are Smaller Than the Current Number – [LeetCode 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
--  Array Partition – [LeetCode 561](https://leetcode.com/problems/array-partition/description/)  
--  Count Items Matching a Rule – [LeetCode 1773](https://leetcode.com/problems/count-items-matching-a-rule/)  
+- 🔽 How Many Numbers Are Smaller Than the Current Number – [LeetCode 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
+- ✂️ Array Partition – [LeetCode 561](https://leetcode.com/problems/array-partition/)  
+- 📋 Count Items Matching a Rule – [LeetCode 1773](https://leetcode.com/problems/count-items-matching-a-rule/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 14 – *Binary Search & Splitting Arrays!*  🆕  
+### ✅ Day 14 – *Binary Search Advanced!* 🚢  
 🔹 Problems Solved:  
--  Arranging Coins – [LeetCode 441](https://leetcode.com/problems/arranging-coins/submissions/1758363344/)  
--  Capacity to Ship Packages Within D Days – [LeetCode 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1758367964/)  
--  Split Array Largest Sum – [LeetCode 410](https://leetcode.com/problems/split-array-largest-sum/submissions/1758371158/)  
+- 🪙 Arranging Coins – [LeetCode 441](https://leetcode.com/problems/arranging-coins/)  
+- 🚛 Capacity to Ship Packages Within D Days – [LeetCode 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  
+- ✂️ Split Array Largest Sum – [LeetCode 410](https://leetcode.com/problems/split-array-largest-sum/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 15 – *Sorting & Stack Simulation!*  🆙  
+### ✅ Day 15 – *Stack-Based Problems!* 📚  
 🔹 Problems Solved:  
--  Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/)  
--  Remove All Adjacent Duplicates in String II – [LeetCode 1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/1758378132/)  
--  Score of Parentheses – [LeetCode 856](https://leetcode.com/problems/score-of-parentheses/)  
+- 🎨 Sort Colors – [LeetCode 75](https://leetcode.com/problems/sort-colors/)  
+- 🗑️ Remove All Adjacent Duplicates in String II – [LeetCode 1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)  
+- 🏗️ Score of Parentheses – [LeetCode 856](https://leetcode.com/problems/score-of-parentheses/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 16 – *Greedy & Reconstruction Challenges!*  ⬆️  
+### ✅ Day 16 – *Greedy & Queue Logic!* ⚡  
 🔹 Problems Solved:  
--  Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/description/)  
--  Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
--  Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
+- 🍋 Lemonade Change – [LeetCode 860](https://leetcode.com/problems/lemonade-change/description/)  
+- ⛽ Gas Station – [LeetCode 134](https://leetcode.com/problems/gas-station/)  
+- 📏 Queue Reconstruction by Height – [LeetCode 406](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 17 – *Linked List Manipulations!*  🔄  
+### ✅ Day 17 – *Linked List Challenges!* 🔗  
 🔹 Problems Solved:  
--  Rotate List – [LeetCode 61](https://leetcode.com/problems/rotate-list/description/)  
--  Swap Nodes in Pairs – [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)  
--  Copy List with Random Pointer – [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)  
+- 🔄 Rotate List – [LeetCode 61](https://leetcode.com/problems/rotate-list/description/)  
+- 🔀 Swap Nodes in Pairs – [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)  
+- 📋 Copy List with Random Pointer – [LeetCode 138](https://leetcode.com/problems/copy-list-with-random-pointer/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 18 – *Heaps & Data Streams!*  ⏳  
+### ✅ Day 18 – *Heap & Stream Problems!* 📈  
 🔹 Problems Solved:  
--  Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/1761826281/)  
--  K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/description/)  
--  Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/description/)  
+- 🥇 Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)  
+- 📍 K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
+- 📊 Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 19 – *Optimizing Arrays!*  〰️  
+### ✅ Day 19 – *Array Set Operations!* 🔢  
 🔹 Problems Solved:  
--  Remove Duplicates from Sorted Array – [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
--  Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/description/)  
--  Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
+- ❌ Remove Duplicates from Sorted Array – [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+- 🔄 Merge Sorted Array – [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/)  
+- 🔗 Intersection of Two Arrays II – [LeetCode 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 20 – *Stack & Design Mastery!*  🆕  
+### ✅ Day 20 – *Stack, Queue & Linked List!* ⚙️  
 🔹 Problems Solved:  
--  Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/description/)  
--  Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/description/)  
--  Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/description/)  
+- 📞 Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/description/)  
+- 📦 Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/description/)  
+- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/)  
 
 ✔️ Status: **Completed** 🎉  
 
 ---
 
-### ✅ Day 21 – *Backtracking with Duplicates!*  〰️  
+### ✅ Day 21 – *Backtracking with Duplicates!* 〰️  
 🔹 Problems Solved:  
--  Subsets II – [LeetCode 90](https://leetcode.com/problems/subsets-ii/)  
--  Combination Sum II – [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)  
--  Permutations II – [LeetCode 47](https://leetcode.com/problems/permutations-ii/)  
+- 🔢 Subsets II – [LeetCode 90](https://leetcode.com/problems/subsets-ii/)  
+- ➕ Combination Sum II – [LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)  
+- 🔀 Permutations II – [LeetCode 47](https://leetcode.com/problems/permutations-ii/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 22 – *Tree Traversal Techniques!* 🌲  
+🔹 Problems Solved:  
+- 🌿 Binary Tree Inorder Traversal – [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)  
+- 🌳 Binary Tree Preorder Traversal – [LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
+- 🍂 Binary Tree Postorder Traversal – [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
