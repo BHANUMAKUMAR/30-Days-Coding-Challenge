@@ -221,11 +221,21 @@ This challenge is all about:
 
 ---
 
-### ✅ Day 22 – *Tree Traversal Techniques!* 🌲  
+### ✅ Day 22 – *Traversal Orders!* 🔍  
 🔹 Problems Solved:  
 - 🌿 Binary Tree Inorder Traversal – [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)  
 - 🌳 Binary Tree Preorder Traversal – [LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
 - 🍂 Binary Tree Postorder Traversal – [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 23 – *Binary Tree Depth & Level Traversals!* 🌳  
+🔹 Problems Solved:  
+- Level Order Traversal – [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
+- Maximum Depth of Binary Tree – [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
+- Minimum Depth of Binary Tree – [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
 
 ✔️ Status: **Completed** 🎉  
 
