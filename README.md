@@ -124,8 +124,8 @@ This challenge is all about:
 ### ✅ Day 12 – *Binary Search Practice!* 🔎  
 🔹 Problems Solved:  
 - 🔢 Valid Perfect Square – [LeetCode 367](https://leetcode.com/problems/valid-perfect-square/)  
-- 🛠️ First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/)  
-- ⛰️ Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
+- 🛠️ First Bad Version – [LeetCode 278](https://leetcode.com/problems/first-bad-version/description/)  
+- ⛰️ Peak Index in a Mountain Array – [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
@@ -205,7 +205,7 @@ This challenge is all about:
 🔹 Problems Solved:  
 - 📞 Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/description/)  
 - 📦 Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/description/)  
-- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/)  
+- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
@@ -236,6 +236,16 @@ This challenge is all about:
 - Level Order Traversal – [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
 - Maximum Depth of Binary Tree – [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
 - Minimum Depth of Binary Tree – [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 24 – *More Tree Properties!* 🌲  
+🔹 Problems Solved:  
+- Diameter of Binary Tree – [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/description/) :contentReference[oaicite:0]{index=0}  
+- Symmetric Tree – [LeetCode 101](https://leetcode.com/problems/symmetric-tree/description/) :contentReference[oaicite:1]{index=1}  
+- Same Tree – [LeetCode 100](https://leetcode.com/problems/same-tree/description/) :contentReference[oaicite:2]{index=2}  
 
 ✔️ Status: **Completed** 🎉  
 
