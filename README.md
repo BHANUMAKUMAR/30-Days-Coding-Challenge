@@ -205,7 +205,7 @@ This challenge is all about:
 🔹 Problems Solved:  
 - 📞 Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/description/)  
 - 📦 Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/description/)  
-- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/description/)  
+- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/)  
 
 ✔️ Status: **Completed** 🎉  
 
@@ -243,9 +243,19 @@ This challenge is all about:
 
 ### ✅ Day 24 – *More Tree Properties!* 🌲  
 🔹 Problems Solved:  
-- Diameter of Binary Tree – [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/description/) :contentReference[oaicite:0]{index=0}  
-- Symmetric Tree – [LeetCode 101](https://leetcode.com/problems/symmetric-tree/description/) :contentReference[oaicite:1]{index=1}  
-- Same Tree – [LeetCode 100](https://leetcode.com/problems/same-tree/description/) :contentReference[oaicite:2]{index=2}  
+- Diameter of Binary Tree – [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/description/)  
+- Symmetric Tree – [LeetCode 101](https://leetcode.com/problems/symmetric-tree/description/)  
+- Same Tree – [LeetCode 100](https://leetcode.com/problems/same-tree/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 25 – *Tree Sum & Search Problems!* 🧮  
+🔹 Problems Solved:  
+- Sum of Left Leaves – [LeetCode 404](https://leetcode.com/problems/sum-of-left-leaves/description/)  
+- Range Sum of BST – [LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)  
+- Search in a Binary Search Tree – [LeetCode 700](https://leetcode.com/problems/search-in-a-binary-search-tree/)  
 
 ✔️ Status: **Completed** 🎉  
 
