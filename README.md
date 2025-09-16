@@ -183,9 +183,9 @@ This challenge is all about:
 
 ### ✅ Day 18 – *Heap & Stream Problems!* 📈  
 🔹 Problems Solved:  
-- 🥇 Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)  
-- 📍 K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
-- 📊 Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/)  
+- 🥇 Kth Largest Element in a Stream – [LeetCode 703](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/1761826281/)  
+- 📍 K Closest Points to Origin – [LeetCode 973](https://leetcode.com/problems/k-closest-points-to-origin/description/)  
+- 📊 Find Median from Data Stream – [LeetCode 295](https://leetcode.com/problems/find-median-from-data-stream/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
@@ -205,7 +205,7 @@ This challenge is all about:
 🔹 Problems Solved:  
 - 📞 Number of Recent Calls – [LeetCode 933](https://leetcode.com/problems/number-of-recent-calls/description/)  
 - 📦 Implement Stack using Queues – [LeetCode 225](https://leetcode.com/problems/implement-stack-using-queues/description/)  
-- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/)  
+- 🔗 Design Linked List – [LeetCode 707](https://leetcode.com/problems/design-linked-list/description/)  
 
 ✔️ Status: **Completed** 🎉  
 
@@ -271,11 +271,21 @@ This challenge is all about:
 
 ---
 
-### ✅ Day 27 – *Graph & String Validation!* 🧩  
+### ✅ Day 27 – *Graph & Connectivity Problems!* 🔌  
 🔹 Problems Solved:  
-- Is Graph Bipartite – [LeetCode 785](https://leetcode.com/problems/is-graph-bipartite/description/)  
-- Score of Parentheses – [LeetCode 856](https://leetcode.com/problems/score-of-parentheses/)  
-- Valid Palindrome II – [LeetCode 680](https://leetcode.com/problems/valid-palindrome-ii/description/)  
+- Is Graph Bipartite – [LeetCode 785](https://leetcode.com/problems/is-graph-bipartite/)  
+- Graph Valid Tree – [LeetCode 261](https://leetcode.com/problems/graph-valid-tree/)  
+- Number of Connected Components in an Undirected Graph – [LeetCode 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
+### ✅ Day 28 – *Dynamic Programming!* ♻️  
+🔹 Problems Solved:  
+- Word Break – [LeetCode 139](https://leetcode.com/problems/word-break/description/)  
+- Target Sum – [LeetCode 494](https://leetcode.com/problems/target-sum/description/)  
+- Coin Change – [LeetCode 322](https://leetcode.com/problems/coin-change/)  
 
 ✔️ Status: **Completed** 🎉  
 
