@@ -291,6 +291,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 29 – *Paths & Matrix DP!* 🧭  
+🔹 Problems Solved:  
+- Unique Paths – [LeetCode 62](https://leetcode.com/problems/unique-paths/submissions/1774065493/)  
+- Longest Increasing Path in a Matrix – [LeetCode 329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)  
+- Minimum Path Sum – [LeetCode 64](https://leetcode.com/problems/minimum-path-sum/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1-3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
