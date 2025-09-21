@@ -301,6 +301,16 @@ This challenge is all about:
 
 ---
 
+### ✅ Day 30 – *Grid & Graph-DP Challenges!* 🧩  
+🔹 Problems Solved:  
+- Unique Paths II – [LeetCode 63](https://leetcode.com/problems/unique-paths-ii/description/)  
+- Triangle – [LeetCode 120](https://leetcode.com/problems/triangle/)  
+- Cheapest Flights Within K Stops – [LeetCode 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)  
+
+✔️ Status: **Completed** 🎉  
+
+---
+
 ## 🎯 My Goals for 30 Days  
 - ✅ Solve at least **1-3 problems daily**  
 - 📈 Improve **logic & speed** step by step  
